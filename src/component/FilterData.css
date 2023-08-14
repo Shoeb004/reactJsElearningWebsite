@@ -1,0 +1,23 @@
+.button-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
+.button-container button{
+    font-size: 18px;
+    color: #fff;
+    background-color: #484866;
+    outline: none;
+    /* border: 2px solid #fff; */
+    padding: 5px;
+    margin-left: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.border{
+    border: 2px solid #fff;  
+}
+.noborder{
+    border: 2px solid transparent;    
+}

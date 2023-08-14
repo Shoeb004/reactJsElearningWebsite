@@ -1,0 +1,7 @@
+.cards-container{
+    display: grid;
+    grid-template-columns: repeat(3,300px);
+    place-content: center;
+    gap: 30px;
+    background-color: rgba(68, 68, 147, 1);
+}
